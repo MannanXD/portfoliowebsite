@@ -47,11 +47,21 @@ nav a{
     font-size: 30px;
     float: left;
     margin: 50px;
+    border-radius: 20%;
     
 }
 .form{
     margin-top: 700px;
 }
 .b1{
-    margin-inline: 150px;
+    margin-inline: 170px;
+}
+.button{
+    margin-inline: 175px;
+}
+.b2{
+    margin-inline: 175px;
+}
+.prj123{
+    margin-inline: 45px;
 }
